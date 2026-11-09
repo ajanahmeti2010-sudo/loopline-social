@@ -19,8 +19,7 @@ export const site = {
 
   // BOOKING BUTTON (free via Cal.com). Paste your booking link, e.g. https://cal.com/yourname/intro
   // If empty, the "Free Consultation" button scrolls to the contact form instead.
-  bookingUrl: "",
-
+bookingUrl: "https://cal.com/loopline-social/cal.com-loopline-social-free-consultation",
   socials: {
     instagram: "",  // TODO: your agency Instagram URL
     tiktok: "",     // TODO: your agency TikTok URL
