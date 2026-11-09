@@ -8,7 +8,7 @@ export const site = {
   name: "Loopline Social",            // TODO: temporary name, replace anytime
   shortName: "Loopline",
   tagline: "Social media that earns attention and keeps it.",
-  email: "ajanahmeti2010@gmail.com",         // TODO: your real business email
+  email: "looplinesocial.agency@gmail.com",         // TODO: your real business email
   phone: "",                          // optional, leave "" to hide
   location: "",                       // optional, e.g. "Serving clients worldwide"
  url: "https://loopline-social.pages.dev",
