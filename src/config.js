@@ -11,7 +11,7 @@ export const site = {
   email: "ajanahmeti2010@gmail.com",         // TODO: your real business email
   phone: "",                          // optional, leave "" to hide
   location: "",                       // optional, e.g. "Serving clients worldwide"
-  url: "url: "https://loopline-social.pages.dev",",   // TODO: your live site address
+ url: "https://loopline-social.pages.dev",
 
   // CONTACT FORM (free via Web3Forms). Get a key at https://web3forms.com
   // Paste it between the quotes. Until you do, the form shows a setup message.
