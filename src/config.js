@@ -15,7 +15,7 @@ export const site = {
 
   // CONTACT FORM (free via Web3Forms). Get a key at https://web3forms.com
   // Paste it between the quotes. Until you do, the form shows a setup message.
-  web3formsKey: "web3formsKey: "22663f65-198c-4008-b54e-7a1af630c3a9",",
+  web3formsKey: "22663f65-198c-4008-b54e-7a1af630c3a9",
 
   // BOOKING BUTTON (free via Cal.com). Paste your booking link, e.g. https://cal.com/yourname/intro
   // If empty, the "Free Consultation" button scrolls to the contact form instead.
